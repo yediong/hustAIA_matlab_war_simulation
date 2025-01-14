@@ -1,0 +1,2 @@
+# hustAIA_matlab_war_simulation
+华中科技大学人工智能与自动化学院系统仿真与matlab专选课课程设计，选题为战争模型
