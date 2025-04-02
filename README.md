@@ -17,7 +17,7 @@
 
 ### 2. UI界面
 
-![](/attachments/Pasted image 20250402204919.png)
+![](/attachments/Pastedimage20250402204903.png)
 
 
 ### 3. 程序流程图
